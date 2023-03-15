@@ -1,0 +1,56 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Roboto:wght@400;500&display=swap');
+
+// Dissertation colours
+
+$purple: #782386;
+$pink: #ab1866;
+$red: #d1295a;
+$peach: #e05b5c;
+$starch: #ffcc66;
+$white: #fff;
+$black: #000;
+
+$headings-font-family:  'Roboto';
+$h2-font-size:          1.8rem;
+$h3-font-size:          1.4rem;
+$h3-font-color: $peach;
+//$headings-font-weight:  700;
+
+// fonts
+$mainFont: 'Open Sans', sans-serif;
+$mainFontSize: 2rem;
+$font-family-sans-serif: 'Open Sans';
+$headingFont: 'Roboto';
+$headingTextShadow: none;
+$headingTextTransform: none;
+
+// colours
+$backgroundColor: $white;
+$body-color: $black;
+$mainColor: $black;
+$headingColor: $pink;
+$link-color: $red;
+//$linkColorHover: lighten( $linkColor, 20% );
+$link-color-hover: lighten( $link-color, 20% );
+$selectionBackgroundColor: rgba(0, 0, 0, 0.99);
+
+
+/*-- scss:rules --*/
+
+
+h2 {
+  //font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
+  color: $pink;
+}
+
+h3 {
+  font-size: 1.6rem;
+  color: $red !important;
+}
+
+.reveal .inverse {
+  background-color: $pink;
+}

@@ -1,0 +1,675 @@
+---
+title: Deconstructing past dietary practices using an oral biofilm model
+author: Bjørn Peare Bartholdy
+institute: Scientific insights on diet in the Ancient Near East during the 2nd-1st millennia BC
+format: 
+  revealjs:
+    slide-number: false
+    incremental: true
+    navigation-mode: vertical
+    theme: [default, custom.scss]
+    #title-slide-attributes: 
+      #data-background-color: "#d1295a"
+abstract: |
+    Dental calculus is increasingly used by researchers to reconstruct dietary patterns in past populations. Common methods used to extract this information from dental calculus include microscopic identification of plant microremains, and detection of plant DNA and proteins. The ability of these methods to successfully detect objects of dietary origin has been extensively demonstrated in recent decades; however, less attention has been devoted to potential biases occurring during life, inhumation, exhumation, and processing, that may affect our interpretations. We know that plant (and other) microremains become trapped within the calculus matrix during consumption, and that we can dissolve the calculus to identify the source of the debris. But what do we actually know about the process in which dietary debris becomes trapped and preserved in dental calculus? How does this process affect our interpretations based on the target dietary components?
+
+    To explore these questions, we have been developing an oral biofilm model to grow artificial dental calculus, and use the model to explore various processes involved in the incorporation and retention of dietary starches in dental calculus. The mineral and bacterial composition of the model was compared to human dental calculus to assess its validity as a proxy. The mineral composition and crystallinity is comparable to dental calculus, consisting in large part of carbonated hydroxyapatite, the main component in human dental calculus. The microbial composition of the model has a strong oral signature, though differs from the comparative human dental calculus in species composition and overall diversity. We also subjected the model calculus to known quantities of raw wheat and potato starch solutions, and compared the input starches to the recovered starches following extraction with a common archaeological extraction method. Granule counts recovered from the model calculus were considerably lower than the input (0.064% to 0.161% of starches recovered). We further found that large granules (>20 μm) were consistently underrepresented in model calculus samples that were subjected to both types of starches.
+
+    Our initial results suggest that starch granules extracted from dental calculus may show a limited, biased picture of the overall starch consumption. More fundamental testing is needed to explore these potential limitations, and oral biofilm models provide a capable framework that can answer fundamental questions about diet and dental calculus in the past.
+---
+
+# Overview
+
+## {.center}
+
+Problems with using dental calculus in paleodietary reconstructions
+
+What even is dental calculus?
+
+How can we address some of the limitations with an oral biofilm model?
+
+
+# Conversation with ChatGPT {background-color="#782386"}
+
+## Current plaeodietary research {.smaller}
+
+Q: What substances are currently used to reconstruct diet in the past?
+
+. . .
+
+A (edited to fit):
+
+::::{.columns}
+
+:::{.column}
+1. Stable Isotopes in bone and teeth
+    - carbon
+    - nitrogen
+    - oxygen
+    - hydrogen
+2. Dental calculus
+    - proteins
+    - fats
+    - other biomolecules
+3. Coprolites
+    - foods consumed
+    - parasites and pathogens
+
+:::
+:::{.column}
+
+4. Archaeobotanical remains
+    - seeds
+    - pollen
+    - phytoliths
+5. Zooarch remains
+    - bones
+    - teeth
+
+:::
+::::
+
+## Current paleodietary research: limitations {.smaller}
+
+Q: What are the limitations with those methods?
+
+. . .
+
+A (edited to fit):
+
+::::{.columns}
+:::{.column}
+
+1. Stable Isotopes in bone and teeth
+    - influence by
+      + geography
+      + climate
+2. Dental calculus
+    - needs sufficient calculus build-up
+    - may not represent overall population diet
+3. Coprolites
+    - preservation is rare
+    - may not reflect overall population diet
+
+:::
+:::{.column}
+
+4. Archaeobotanical remains
+    - may not represent population diet
+    - plants may not be recognisable
+5. Zooarchaeological remains
+    - may not represent population diet
+      + some animals may not have been hunted or raised for food
+
+:::
+::::
+
+## Current paleodietary research: limitations {.smaller}
+
+Q: Can you elaborate on the limitations of dental calculus?
+
+. . .
+
+A (edited to fit):
+
+::::{.columns}
+:::{.column}
+
+1. Preservation
+    - sufficient calculus build-up needed -> biased sample
+2. Variability (composition)
+    - age
+    - sex
+    - health status
+3. Recovery
+    - difficult to recover
+    - time-consuming
+    - labor-intensive
+
+:::
+:::{.column}
+
+4. Contamination
+    - environmental
+    - handling
+    - analysis
+5. Interpretation
+    - presence $\neq$ consumption
+
+:::
+::::
+
+## Current paleodietary research: solutions to limitations {.smaller}
+
+Q: What can we do to address these limitations?
+
+. . .
+
+A (edited to fit):
+
+:::: {.columns}
+
+::: {.column}
+
+1. Selection criteria
+  - only use individuals with significant build-up
+    + will ensure representative samples <!-- contradition with previous slide -->
+2. Standardized protocols
+  - recovery and analysis
+    + will minimise contamination and variability in results
+3. Multi-proxy approach
+  - multiple lines of evidence -> corroboration
+  - more complete picture
+
+:::
+::: {.column}
+
+4. Replication and validation
+  - replicate analyses
+  - validating against other lines of evidence
+5. New technologies
+  - more detailed and accurate information
+    + proteomics
+    + metagenomics 
+:::
+::::
+
+## Current paleodietary research: solutions to limitations
+
+Q: What about experimental validation?
+
+. . .
+
+A (edited to fit): 
+
+- controlled experiments to test the validity of the biomolecules
+- compare with individuals with known diets
+- experiment with different factors
+  + age, sex, health status
+- compare newer technologies with older established methods <!-- contradiction with previous slide -->
+
+## Current paleodietary research: solutions to limitations
+
+Q: And what about oral biofilm models?
+
+. . .
+
+A (edited to fit):
+
+Can test:
+
+- biomolecules produced in response to dietary components
+- the effects of different factors on the composition of dental biofilms
+  + such as diet and environmental conditions
+- accuracy and reliability of new technologies
+  + proteomics
+  + metagenomics
+
+Full chat [here](./chat)
+
+## Addition {.center}
+
+Constant turnover of calculus (mechanical removal)
+
+Methods-testing not possible on archaeological samples
+- How do we validate output if we don't know the input?
+
+How do dietary components end up in dental calculus in the first place?
+- How can we expect to understand diet from archaeological dental calculus if we don't understand this?
+
+Why are certain plants and other foods missing?
+
+Absence of evidence is not evidence of absence
+
+# Background {background-color="#e05b5c"}
+
+## Oral biofilms
+
+**Biofilm:** Communities of microbial cells within a matrix of extracellular polymers.
+
+Dental plaque is an example of an oral biofilm.
+
+![](https://raw.githubusercontent.com/bbartholdy/endgame/main/figures/biofilm_formation.png){.absolute right="200"}
+
+
+## Oral biofilms: Formation and growth {.smaller}
+
+:::: {.columns}
+
+::: {.column}
+Dental pellicle attaches to teeth
+
+Bacteria (early colonisers) attach to pellicle
+
+Bacteria (late colonisers) attach to early colonisers
+:::
+
+::: {.column}
+
+Communities form and a protective casing of extracellular polymers is generated
+
+:::
+::::
+
+![](https://raw.githubusercontent.com/bbartholdy/endgame/main/figures/biofilm_formation.png){.absolute right="200"}
+
+
+## Oral biofilms: Mineralisation {.smaller}
+
+:::: {.columns}
+
+::: {.column}
+Lesser known process
+
+Irregular, multifocal
+
+Supersaturation of minerals (Ca and P) due to high pH
+:::
+::: {.column}
+
+Mineralisation of biofilm matrix
+
+Mineralisation of bacterial cells
+
+:::
+::::
+
+![](https://raw.githubusercontent.com/bbartholdy/endgame/main/figures/biofilm_formation.png){.absolute right="200"}
+
+
+## Dental calculus
+
+Mineralised dental plaque
+
+Consists primarily of calcium phosphate minerals
+
+- Brushite
+- Octacalcium phosphate
+- Whitlockite
+- Hydroxyapatite
+
+And various debris from an individual's diet and environment
+
+## Oral biofilm models
+
+**Biofilm model:** growing a biofilm in (or moving to) a lab for analysis.
+
+### Types
+
+::::{.columns}
+
+:::{.column}
+Some are less complex
+
+- agar plate
+- multiwell plate
+:::
+
+:::{.column}
+than others
+
+- constant depth film fermenter
+- modified robbins device
+- multi-station artificial mouth
+
+:::
+::::
+
+![](https://raw.githubusercontent.com/bbartholdy/capa2021-pres/main/assets/img/sissons-mam.png){.absolute .fragment right="200" top="50"}
+
+# Our model {background-color="#d1295a"}
+
+## Intro
+
+We developed a protocol oral biofilm model to grow artificial dental calculus.
+
+. . .
+
+A couple of questions we needed to answer:
+
+- Does the protocol work?
+- Are we actually growing dental calculus?
+- What can we say about archaeological dental calculus and diet?
+
+
+## How it's made
+
+<!-- protocol -->
+. . .
+
+First you need some "teeth"
+
+. . .
+
+![](https://figshare.com/ndownloader/files/39517726/preview/39517726/preview.jpg)
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+Then some inoculate
+
+. . .
+
+![](https://media.giphy.com/media/j9SlCd2tXnh4zF8UsU/giphy.gif)
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+Some "saliva" to last 25 days
+
+![](https://figshare.com/ndownloader/files/39517723/preview/39517723/preview.jpg){width="500"}
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+A "mouth" maintained at 36&deg;C
+
+![](https://figshare.com/ndownloader/files/39517729/preview/39517729/preview.jpg){width="500"}
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+And some food
+
+![](https://figshare.com/ndownloader/files/39547114/preview/39547114/preview.jpg)
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+![GIPHY](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5ZGM2N2IwNmY4MTU0NDBlNGI3Y2NhNzM1ODM5ZDIxM2YzY2JkMyZjdD1n/l1Et6Iwu8QVaoe47K/giphy.gif)
+
+. . .
+
+25 days to be exact...
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## How it's made
+
+![](https://raw.githubusercontent.com/bbartholdy/2022_AABA-pres/main/assets/img/final-product.jpg)
+
+:::{.footer}
+<https://protocols.io/workspaces/byoc>
+:::
+
+## Quality control
+
+Are we actually growing a calculus-like substance?
+<!-- validation -->
+
+. . .
+
+See for yourself (if I remember to bring a sample)
+
+
+## Quality control: mineral composition
+
+- Primarily carbonated hydroxyapatite
+
+![](img/compare-calc-spectra-1.png)
+
+:::{.footer}
+Publication in progress
+:::
+
+## Quality control: bacterial composition
+
+- Primarily anaerobic oral microbes
+
+![](img/fig-core-microbiome-1.png){.absolute left="10" width="450"}
+
+![](img/fig-spca-compar-1.png){.absolute right="10" width="650"}
+
+
+:::{.footer}
+Publication in progress
+:::
+
+## How we use it
+
+<!-- application -->
+**Questions:** 
+
+- What biases are associated with incorporation of different species of starch in calculus
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+## How we use it
+
+<!-- application -->
+**Questions:** 
+
+::: {.nonincremental}
+- Do we get out what we put in?
+:::
+
+. . .
+
+**Methods:** 
+
+- Add known quantities of raw starch solutions (wheat, potato, mix) during growth
+- Process the calculus as we would archaeological calculus
+- Count the extracted microremains
+- Compare extracted counts to starch solutions
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+## How we use it
+
+![](https://raw.githubusercontent.com/bbartholdy/2022_AABA-pres/main/assets/img/byoc_protocol.png)
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+## How we use it
+
+<!-- application -->
+**Answer:** 
+
+::: {.nonincremental}
+- Do we get out what we put in?
+:::
+
+## How we use it
+
+<!-- application -->
+**Answer:** 
+
+::: {.nonincremental}
+- No
+:::
+
+
+
+## How we use it
+
+VERY low starch retention...
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+
+## How we use it
+
+![](https://github.com/bbartholdy/byoc-starch/raw/main/analysis/paper/figures/ratio-plots-1.png)
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+
+## How we use it
+
+![](https://github.com/bbartholdy/byoc-starch/raw/main/analysis/paper/figures/cor-plot-1.png)
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+
+## How we use it
+
+![Starches extracted from the artificial dental calculus](https://raw.githubusercontent.com/bbartholdy/byoc-starch/main/analysis/figures/starches_w_bar.jpg)
+
+:::{.footer}
+[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
+:::
+
+## What else could we do with it? {.smaller .scrollable}
+
+<!-- potential -->
+Figure out why/how dietary compounds are entrapped within dental calculus
+
+Explore the impact of various factors on entrapped dietary compounds
+
+- $\alpha$-amylase and other enzymes
+- bacterial composition
+- different diets
+  + for example in the Ancient Near East during the 2nd-1st millennia BC
+
+Test biases of various methods used for dietary reconstruction
+
+- extraction methods
+- microscopy
+- aDNA
+- proteomics
+
+Explore degradation with artificial ageing
+
+- how do entrapped microremains and biomolecules preserve under different conditions?
+  + for example in the Ancient Near East during the 2nd-1st millennia BC
+
+Generate disposable samples for training!
+
+## What can't we do with it?
+
+Model
+
+. . .
+
+![[ThisisEngineering RAEng](https://unsplash.com/es/@thisisengineering?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Unsplash](https://images.unsplash.com/photo-1580982327559-c1202864eb05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+  
+
+## What can't we do with it?
+
+Life
+
+. . .
+
+![Ross Sokolovski on Unsplash](https://images.unsplash.com/photo-1467224298296-81a33a3f3022?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80)
+
+
+
+## What can't we do with it?
+
+<!-- limitations -->
+
+Use it to replace *in vivo* studies
+
+- modern humans with documented intake (ethnographic studies)
+- non-human primates with documented intake
+- studies using intraoral devices
+
+Simulate mastication and natural dental calculus formation
+
+Directly compare with specific archaeological individuals and processes
+
+- model has 'unnatural' growth
+
+# Summary {background-color="#ab1866"}
+
+
+## {.center}
+
+The archaeological record is biased... [but how exactly?]{.fragment}
+
+. . .
+
+It's important to also deconstruct past dietary practices
+
+. . .
+
+And critically examine the methods we use
+
+. . .
+
+From multiple angles
+
+. . .
+
+To better understand why we see what we are seeing
+
+
+## More info {.center}
+
+Still curious?
+
+Protocols: <https://protocols.io/workspaces/byoc>
+
+PhD dissertation (in progress): <https://myphd.netlify.app>
+
+Model application: <https://doi.org/10.3389/feart.2022.886512>
+
+Actual arhaeological dental calculus (preprint): <https://doi.org/10.5281/zenodo.7649150>
+
+## {.center}
+
+> Analyzing the calculus is complex
+  And not all samples yield effects
+  The composition can be influenced, it's true
+  By factors like diet, hygiene, and more that we construe
+
+> So let us cherish what we can glean
+  From dental calculus, so pristine
+  But also be aware of its limits, dear friends
+  And continue to explore new scientific trends.
+
+-- ChatGPT
+
+## Acknowledgements
+
+::::{.columns}
+
+:::{.column}
+Co-authors:
+
+- Irina Velsko
+- Zandra Fagernäs
+- Shira Gur-Arieh
+- Amanda Henry
+
+:::
+:::{.column}
+
+Others:
+
+- Stephanie Schnorr
+- James Fellows Yates
+
+:::
+::::
+
+Research funded by the European Research Council under the European Union’s Horizon 2020 research and innovation program, grant agreement number STG–677576 (“HARVEST”)
