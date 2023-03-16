@@ -207,14 +207,16 @@ Can test:
 
 Full chat [here](./chat)
 
-## Addition {.center}
+## Addition: limitations {.center}
 
 Constant turnover of calculus (mechanical removal)
 
 Methods-testing not possible on archaeological samples
+
 - How do we validate output if we don't know the input?
 
 How do dietary components end up in dental calculus in the first place?
+
 - How can we expect to understand diet from archaeological dental calculus if we don't understand this?
 
 Why are certain plants and other foods missing?
@@ -501,11 +503,11 @@ Publication in progress
 - No
 :::
 
-
-
 ## How we use it
 
 VERY low starch retention...
+
+![Starches extracted from the artificial dental calculus](https://raw.githubusercontent.com/bbartholdy/byoc-starch/main/analysis/figures/starches_w_bar.jpg)
 
 :::{.footer}
 [10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
@@ -529,14 +531,6 @@ VERY low starch retention...
 [10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
 :::
 
-
-## How we use it
-
-![Starches extracted from the artificial dental calculus](https://raw.githubusercontent.com/bbartholdy/byoc-starch/main/analysis/figures/starches_w_bar.jpg)
-
-:::{.footer}
-[10.3389/feart.2022.886512](https://doi.org/10.3389/feart.2022.886512)
-:::
 
 ## What else could we do with it? {.smaller .scrollable}
 
@@ -566,20 +560,20 @@ Generate disposable samples for training!
 
 ## What can't we do with it?
 
-Model
+It's a model
 
 . . .
 
-![[ThisisEngineering RAEng](https://unsplash.com/es/@thisisengineering?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Unsplash](https://images.unsplash.com/photo-1580982327559-c1202864eb05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+![[ThisisEngineering RAEng](https://unsplash.com/es/@thisisengineering?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Unsplash](https://images.unsplash.com/photo-1580982327559-c1202864eb05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80){width="400"}
   
 
 ## What can't we do with it?
 
-Life
+Life is messy
 
 . . .
 
-![Ross Sokolovski on Unsplash](https://images.unsplash.com/photo-1467224298296-81a33a3f3022?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80)
+![Ross Sokolovski on Unsplash](https://images.unsplash.com/photo-1467224298296-81a33a3f3022?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1413&q=80){width="700"}
 
 
 
@@ -640,8 +634,8 @@ Actual arhaeological dental calculus (preprint): <https://doi.org/10.5281/zenodo
 > Analyzing the calculus is complex
   And not all samples yield effects
   The composition can be influenced, it's true
-  By factors like diet, hygiene, and more that we construe
-
+  By factors like diet, hygiene, and more that we construe  
+>
 > So let us cherish what we can glean
   From dental calculus, so pristine
   But also be aware of its limits, dear friends
